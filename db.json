@@ -1,0 +1,29 @@
+{
+    "vehicles": [
+      {
+        "vehicle": "Car",
+        "ownerName": "Hamisu Muhammad",
+        "details": "some detail about Hamisu's Car"
+      },
+      {
+        "vehicle": "Bike",
+        "ownerName": "Hamisu Muhammad",
+        "details": "some detail about Hamisu's Bike"
+      },
+      {
+        "vehicle": "Bike",
+        "ownerName": "Bala Dauda",
+        "details": "some detail about Bala"
+      },
+      {
+        "vehicle": "Airplane",
+        "ownerName": "Oga Basiru",
+        "details": "some detail about Oga Basiru"
+      } ,
+      {
+        "vehicle": "Tesla",
+        "ownerName": "Mhizta Mammut",
+        "details": "some detail about Mammut"
+      }      
+    ]
+  }
